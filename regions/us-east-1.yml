@@ -1,0 +1,5 @@
+image: "ami-02da3a138888ced85"
+instance_type: ""
+vpc_subnet_id: ""
+key_name: ""
+region: ""

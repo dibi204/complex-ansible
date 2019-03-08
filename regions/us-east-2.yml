@@ -1,0 +1,5 @@
+image: ""
+instance_type: ""
+vpc_subnet_id: ""
+key_name: ""
+region: ""
